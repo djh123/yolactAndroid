@@ -7,11 +7,11 @@ https://github.com/Tencent/ncnn
 
 
 
-##Fast start
+## Fast start
 链接: https://pan.baidu.com/s/1qBUctH_kh33JgYiP7VnFLg 提取码: p5fs 
 adb install app-debug.apk
 
-##详细的搬迁方案
+## 详细的搬迁方案
 https://zhuanlan.zhihu.com/p/265585700
 
 链接: https://pan.baidu.com/s/1atTvmtuCoj8EnKFjiwEThQ 提取码: 95yp
